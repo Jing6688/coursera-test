@@ -17,12 +17,10 @@ hr {
 }
 
 .row {
-	height:300px;
+	height:auto;
 	width:100%; 
 }
-# dropdown-menu {border-box: 2px solid black;
-height:100px;
-backgroud-color:white;}
+# dropdown-menu {backgroud-color:white;}
 
 * {text-decoration: none;}
 
@@ -43,7 +41,7 @@ padding:20px;
 section {
 	height: auto;
 	position: relative;
-	overflow: auto;
+	overflow: auto;width: 100%}
 
 .navbar-header h1 {color: black;
 text-decoration:none;}
