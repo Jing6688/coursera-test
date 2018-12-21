@@ -25,7 +25,7 @@ height:150px;
 #collapsable-nav {background-color:white;
 text-align: center;text-decoration: underline;}
 
-# dropdown-menu {hr 
+hr {
   border-color: black;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -61,6 +61,7 @@ padding:20px;
 text-decoration:none;}
 
 .navbar-header a:hover, .navbar-header a:focus {text-decoration: none;}
+	
 
 
 
@@ -71,8 +72,8 @@ text-decoration:none;}
 		<nav id="header-nav" class="navbar navbar-default">
 			<div class="container">
 				<div class="navbar-header">
-					
-				     <a href="#"><h1>Food, LLC</h1></a>
+					<div class="navbar-brand">
+				     <a href="#"><h1>Food, LLC</h1></a></div>
 
 				</div>
 
@@ -88,14 +89,17 @@ text-decoration:none;}
 			 	<ul id="dropdown-menu" class="nav navbar-nav navbar-right visible-xs">
 			 		<li>
 			 			<a href="#">Chicken</a>
+						<hr class="visible-xs">
 			 		</li>
 
 			 		<li>
 			 			<a href="#">Beef</a>
+						<hr class="visible-xs">
 			 		</li>
 
 			 		<li>
 			 			<a href="#">Sushi</a>
+						<hr class="visible-xs">
 			 		</li>
 
 
@@ -104,8 +108,8 @@ text-decoration:none;}
 	</header>
 
 	<div id="main-content" class="container">
-
-		<h2>Our Menu</h2>
+               <div class="navbar-brand" 
+		<h1>Our Menu</h1></div>
 
 		<div id="menu category" class="row">
 
