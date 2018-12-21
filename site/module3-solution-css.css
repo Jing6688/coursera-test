@@ -6,8 +6,9 @@ margin-left:0;
 margin-right:-8px;
 height:150px;
 }
-#collapsable-nav {background-color:white;
-text-align: center;}
+#collapsable-nav {background-color:white;	
+text-align:center;}
+
 hr {
   border-color: 1px solid black;
   margin-top: 0px;
