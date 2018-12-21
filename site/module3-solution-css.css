@@ -16,10 +16,10 @@ hr {
   margin-bottom: 0px;
 }
 
-.row {
-	height:auto;
+.row {	height:auto;
 	width:100%; 
 }
+
 # dropdown-menu {backgroud-color:white;}
 
 * {text-decoration: none;}
