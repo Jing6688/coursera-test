@@ -11,10 +11,11 @@ height:150px;
 text-align:center;}
 
 hr {
-  border-color: 1px solid black;
+  border-color: 2px solid black;
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
 .row {
 	height:200px;
 	width:100%; 
@@ -22,7 +23,7 @@ hr {
 # menu category {border-box: 2px solid black;
 height:100px;
 float:left;
-backgroud-color:#8c8c8c ;}
+backgroud-color:white;}
 
 * {text-decoration: none;}
 
