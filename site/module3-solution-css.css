@@ -29,12 +29,8 @@ backgroud-color:#8c8c8c ;}
 h1 {margin-top:50px;
 	float:left;}
 
-.navbar-brand {
-  font-size: 2em;
-  border: 0 0 10px 10px;
-  color: #223843;text-aligh:center;}
 
-h2 {text-align:center !important;}
+h2 {text-align:center !important;text-size:2em;}
 
 h3 {text-align: center;}
 
