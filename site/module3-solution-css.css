@@ -20,9 +20,8 @@ hr {
 	height:200px;
 	width:100%; 
 }
-# menu category {border-box: 2px solid black;
+# dropdown-menu {border-box: 2px solid black;
 height:100px;
-float:left;
 backgroud-color:white;}
 
 * {text-decoration: none;}
