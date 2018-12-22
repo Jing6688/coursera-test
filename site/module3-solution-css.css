@@ -7,20 +7,17 @@ margin-right:-8px;
 height:150px;
 }
 
-#collapsable-nav {background-color:white;	
-text-align:center;}
-
 hr {
-  border-color: 2px solid black;
+  border-color: 1px solid black;
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
-.row {	height:600px;
+.row {	height:auto;
 	width:100%;margin-left:30px; 
 }
 
-#dropdown-menu {backgroud-color:white;}
+#nav-list {backgroud-color:white;text-align:center;}
 
 * {text-decoration: none;}
 
@@ -39,7 +36,7 @@ padding:20px;
 }
 
 
-.section {
+section {
 	height: auto;
 	position: relative;
 	overflow: auto;
