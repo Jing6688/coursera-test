@@ -36,7 +36,9 @@ padding:20px;
 position: relative;
 }
 
-.navbar-toggle collapsed {margin-top: 20px;}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-bottom: 10px;
 
 #collapsable-nav {margin-top:30px;}
 
