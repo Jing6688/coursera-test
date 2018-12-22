@@ -1,7 +1,7 @@
 body {background-color:#d9d9d9 }
 #header-nav {
 background-color: #cc99ff;
-margin-top:-20px;
+margin-top:10px;
 margin-left:0;
 margin-right:-8px;
 height:150px;
@@ -33,7 +33,7 @@ h3 {text-align: center;}
 p {border: 2px solid black;
 text-align: left;
 padding:20px;
-position:relative;
+position: relative;
 }
 
 .navbar-toggle collapsed {margin-top: 20px;}
