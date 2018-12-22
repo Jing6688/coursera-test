@@ -33,6 +33,7 @@ h3 {text-align: center;}
 p {border: 2px solid black;
 text-align: left;
 padding:20px;
+position:relative;
 }
 
 .navbar-toggle collapsed {margin-top: 20px;}
