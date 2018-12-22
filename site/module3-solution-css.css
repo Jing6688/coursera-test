@@ -7,11 +7,22 @@ margin-right:-8px;
 height:150px;
 }
 
+.section {
+	height: auto;
+	position: relative;
+	overflow: auto;
+	border: 2px solid black;
+text-align: left;
+padding:20px;}
+
 hr {
   border-color: 1px solid black;
   margin-top: 0px;
   margin-bottom: 0px;
 }
+
+p {border: 2px solid black;
+text-align: left;padding:20px;background-color:#ccccff;}
 
 .row {	height:auto;
 	width:100%;margin-left:30px;
@@ -37,20 +48,7 @@ h3 {text-align: center;}
 
 #collapsable-nav {margin-top:30px;}
 
-p {height: auto;position: relative;
-	overflow: auto;
-	border: 2px solid black;
-text-align: left;
-padding:20px;background-color:#ccccff;}
 	
-.section {
-	height: auto;
-	position: relative;
-	overflow: auto;
-	border: 2px solid black;
-text-align: left;
-padding:20px;}
-
 .navbar-header h1 {color: black;
 text-decoration:none;}
 
